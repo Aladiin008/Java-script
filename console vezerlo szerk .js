@@ -89,3 +89,22 @@ console.log((pozosszeg/pozdb).toFixed(2) + " a pozitív számok átlaga:");
 console.log(maxe+ " a legnagyobb szám");
 console.log(maxi+". helyen van a legnagyobb érték.");
 
+//Szövegkezelés
+var szoveg = "kalapács";
+console.log(szoveg[0]+ " - Ez az első karakter");
+//szöveg hossza - szoveg. length
+
+
+//Array - tömb, lista
+
+tomb = [];
+tomb. push(12);
+tomb. push(23);
+tomb. push(11);
+console.log(tomb);
+console.log(tomb[0])
+console.log("tömb hossza: " + tomb.length);
+
+
+//Házi Feladat:10-33 ig a lapon.
+
