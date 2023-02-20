@@ -108,3 +108,5 @@ console.log("tömb hossza: " + tomb.length);
 
 //Házi Feladat:10-33 ig a lapon.
 
+
+
